@@ -2,7 +2,7 @@ import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import EmailIcon from '@mui/icons-material/Email';
 import CodeIcon from '@mui/icons-material/Code';
-import avatar from '../assets/images/avatar.jpg';
+import avatar from '../assets/images/avatar.png';
 import '../assets/styles/Main.scss';
 
 function Main() {
