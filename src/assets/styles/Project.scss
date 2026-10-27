@@ -56,6 +56,18 @@
     background: linear-gradient(135deg, #0d1116 0%, #3d5afe 100%);
 }
 
+.project-banner.expense {
+    background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+}
+
+.project-banner.detect {
+    background: linear-gradient(135deg, #e11d48 0%, #f43f5e 100%);
+}
+
+.project-banner.movie {
+    background: linear-gradient(135deg, #d97706 0%, #f59e0b 100%);
+}
+
 @media screen {
     @media (max-width: 700px) {
         .projects-container {
