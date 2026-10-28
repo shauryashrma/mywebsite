@@ -21,6 +21,14 @@
   fieldset {
     background-color: white;
   }
+
+  /* force typed text to always be black regardless of dark/light mode */
+  input,
+  textarea {
+    color: #000000 !important;
+    position: relative;
+    z-index: 1;
+  }
 }
 
 label {
